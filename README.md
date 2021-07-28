@@ -3,11 +3,11 @@ A collection of fonts that could be useful in other projects
 
 ### fonts for basic wine use
 
-* Usage
-`cd ~/.wine/drive_c/windows/Fonts`
-`wget "https://down.gloriousdays.pw/Fonts/wine_fonts.tar.xz"`
-`tar xJvf wine_fonts.tar.xz`
-`rm wine_fonts.tar.xz`
+* Usage  
+`cd ~/.wine/drive_c/windows/Fonts`  
+`wget "https://down.gloriousdays.pw/Fonts/wine_fonts.tar.xz"`  
+`tar xJvf wine_fonts.tar.xz`  
+`rm wine_fonts.tar.xz`  
 
 ### all windows zh-fonts
 链接: https://pan.baidu.com/s/1SWTe1Dj485FTJSdKqI6QCA
