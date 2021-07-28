@@ -1,0 +1,6 @@
+# ignore below files
+
+*.zip
+*.ttc
+*.tar
+*.tar.xz
